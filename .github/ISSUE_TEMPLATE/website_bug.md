@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Website Bug report
 about: Create a report to help us improve
 title: "[\U0001F41B BUG] - YOUR TITLE HERE"
 labels: "\U0001F41B Bug"
